@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 performing analysis on Kickstarter data to uncover trends
-1 finiding
+1. finiding
 - finding
 
 
