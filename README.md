@@ -41,21 +41,31 @@ In an effort to uncover the impact of different variables on a success of a camp
 
 ![](Outcomes%20based%20on%20Launch%20date%20(theater).png)
 
-	The month of May seems to be the best time to launch a campaign followed by June and then July.
-	The month of October seems to be a bad time to launch a campaign as it has the highest number of failed projects.
+	May seems to be the best month to launch a campaign followed by June and then July.
+
+	October seems to be a bad month to launch a campaign as it has the highest number of failed projects.
+
 
 #### Limitations & Suggestions
 
 	Data is dated. The dates of campaigns launched and ended is of 2017 and before.
+
  Data does not contain all important variables that may have an impact on a campaigns success like (external economic environment,incentives provided, marketing and pr efforst etc). 
+
 	Data does not take into account the impact of current pandemic(covid-19) and its negative impact on the future of theater/play.
 
 For a deeper analysis we should also consider exploring the following:
 
 	Possible link between genre of play and success of campaign? (stacked bar graph)
+
 	Possible link between incentives and success of campaign?
+
 	Possible link between the length of campaign and percentage of success (outcomes based on duration of campaign Pivot chart and line graph)
+
 	Identifying Outliers in the data set (box and whiskers chart for goal and pledged amount)
+
 	Possible link between promotion of campaigns and percentage of success (marketing /social media engagement)
+
 	Possible link between reputation of a campaign owner and its impact on the success and failure. (established person or a celebrity vs a beginner)
+
 	 The Goal and pledged amounts are in a variety of currencies and 5000$ is not equal to 5000 pound and so on, we should probably convert them in one to have an accurate account of success by goal amount.
