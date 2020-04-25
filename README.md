@@ -1,18 +1,22 @@
 # An Analysis of Kickstarter Campaigns
-performing analysis on Kickstarter data to uncover trends
-1. finiding
-- finding
+performing analysis on Kickstarter data to uncover trends.Following are some of the key finidngs of the analysis:
+
+1. We have found that there were 525 successful theater campaigns in the 
+United States.
+
+2. We could also note that play specifically were 412 out 0f 671 which makes the % success rate of them in us to 61.4%
+
+3. For Great Britain the plays specifically were 238 out 0f 314 which makes the % success rate of them in us to 75.8%
+
+4.The Play Category is the most successful out of all categories.
+
+5. looking at the outcomes by launchdate we can note that May is a good time to launch a campaign, whereas October is not so great for campaign launch.
+
+
 ### Parent Category Outcome:
 ![](ParentCategoryOutcome.png)
 
-
-
-
-
 ![](Parent%20Category%20Outcome-Theater-US.png)
-
-
-
 
 
 ![](Subcategory%20Play%20Statistics.png)
@@ -20,8 +24,8 @@ performing analysis on Kickstarter data to uncover trends
 
 
 ![](Boxwhiskers.png)
-
-
+ 
+From these plots, we can see that the mean campaign goal is around £4,000. This is outside of the range of outliers for amount pledged, so Louise should probably try to get her play produced for less than £4,000. Half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged.
 
 ### Challange
 
