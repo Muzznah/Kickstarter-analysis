@@ -8,7 +8,7 @@ United States.
 
 3. For Great Britain the plays specifically were 238 out 0f 314 which makes the % success rate of them in us to 75.8%
 
-    4.The Play Category is the most successful out of all categories.
+4. The Play Category is the most successful out of all categories.
 
 5. looking at the outcomes by launchdate we can note that May is a good time to launch a campaign, whereas October is not so great for campaign launch.
 
